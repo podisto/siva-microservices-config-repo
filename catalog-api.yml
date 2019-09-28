@@ -153,4 +153,5 @@ logging:
 # https://www.jhipster.tech/common-application-properties/
 # ===================================================================
 
-# application:
+application:
+    app-name: catalog-api
